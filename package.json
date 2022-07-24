@@ -1,0 +1,19 @@
+{
+  "name": "express-typescript",
+  "version": "1.0.0",
+  "description": "Rest API using node and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishjsharda/RestAPIusingTypeScript.git"
+  },
+  "author": "Ashish Sharda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishjsharda/RestAPIusingTypeScript/issues"
+  },
+  "homepage": "https://github.com/ashishjsharda/RestAPIusingTypeScript#readme"
+}
