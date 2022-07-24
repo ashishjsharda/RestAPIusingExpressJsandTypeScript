@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ashishjsharda/RestAPIusingTypeScript/issues"
   },
-  "homepage": "https://github.com/ashishjsharda/RestAPIusingTypeScript#readme"
+  "homepage": "https://github.com/ashishjsharda/RestAPIusingTypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
